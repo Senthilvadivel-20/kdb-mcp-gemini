@@ -86,4 +86,7 @@ export GEMINI_API_KEY="YOUR_API_KEY_HERE"
 
 ### 4. Run the KDB MCP Server
 
-Gemini
+>Gemini
+
+![KDB MCP Gemini CLI](screenshots/kdb-gemini-mcp.jpeg)
+
