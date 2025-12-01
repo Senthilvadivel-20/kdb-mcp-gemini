@@ -1,0 +1,16 @@
+{
+  "mcp": {
+    "servers": [
+      {
+        "name": "kdb-x-finance",
+        "description": "KDB-X Financial Data Server for time-series and vector search.",
+        "command": "npx",
+        "args": [
+          "streamable-http-client",
+          "--url",
+          "http://127.0.0.1:8000"
+        ]
+      }
+    ]
+  }
+}
